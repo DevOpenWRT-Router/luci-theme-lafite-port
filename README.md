@@ -12,9 +12,9 @@ Please remember it's a backwards port so bugs may occur.
 
 # Screen shots
 
-![Login](login.png)
+![Login](htdocs/login.png)
 
-![List](list.png)
+![List](htdocs/list.png)
 
-![List](info.png)
+![List](htdocs/info.png)
 
